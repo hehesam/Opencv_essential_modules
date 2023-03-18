@@ -12,4 +12,4 @@ git@github.com:hehesam/Opencv_essential_modules.git
 ## Modules
 Here is a list of the modules that are included in this repository:
 
-comperessor : This code contains two functions to resize and compress a GIF file using OpenCV and the Python Imaging Library (PIL). The user can specify the input file, output file, scaling percentage, and quality level to apply the transformations.
+### comperessor : This code contains two functions to resize and compress a GIF file using OpenCV and the Python Imaging Library (PIL). The user can specify the input file, output file, scaling percentage, and quality level to apply the transformations.
