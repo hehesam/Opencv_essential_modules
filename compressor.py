@@ -73,8 +73,8 @@ def resize_and_compress_gif(input_file, output_file, scale_percent, quality=80):
 
 
 
-input_file = "output2.gif"
-output_file = "resized23.gif"
+input_file = "input.gif"
+output_file = "output.gif"
 scale_percent = 30  # Scale the image to 50% of its original size
 quality = 50
 # resize_gif(input_file, output_file, scale_percent)
