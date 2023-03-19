@@ -14,8 +14,8 @@ def resize_video_with_audio(input_file, output_file, scale_percent):
     # Save the resized video
     resized_video.write_videofile(output_file, codec='libx264')
 
-input_file = "rayan.mp4"
-output_file = "me2.mp4"
+input_file = "input.mp4"
+output_file = "output.mp4"
 scale_percent = 50  # Scale the video to 50% of its original size
 
 resize_video_with_audio(input_file, output_file, scale_percent)

@@ -13,3 +13,8 @@ git@github.com:hehesam/Opencv_essential_modules.git
 Here is a list of the modules that are included in this repository:
 
 ### comperessor : This code contains two functions to resize and compress a GIF file using OpenCV and the Python Imaging Library (PIL). The user can specify the input file, output file, scaling percentage, and quality level to apply the transformations.
+
+
+### vidoes_compressor : This code defines a function resize_video_with_audio that takes an input video file, resizes it based on a given scaling percentage, and saves the resized video with audio to an output file. The function uses the moviepy library to handle video processing tasks.
+
+### vidoes_to_gif : it will convert mp4 file to gif image using moviepy pachege

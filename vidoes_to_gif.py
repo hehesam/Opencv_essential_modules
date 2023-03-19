@@ -12,7 +12,7 @@ def convert_mp4_to_gif(input_file, output_file, fps=None):
     input_video.write_gif(output_file, fps=fps, program='ffmpeg')
 
 input_file = "me.mp4"
-output_file = "meme.gif"
+output_file = "outme.gif"
 fps = 25  # Set the frame rate of the GIF (optional)
 
 convert_mp4_to_gif(input_file, output_file, fps)
